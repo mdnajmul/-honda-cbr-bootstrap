@@ -17,3 +17,17 @@ header {
     color: #b9b6b6;
     font-weight: 300;
 }
+
+.best-bike {
+    color: #E76F51;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.about-border {
+    display: block;
+    width: 80px;
+    height: 2px;
+    background: #E76F51;
+    margin: 20px auto;
+}
