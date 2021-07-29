@@ -32,3 +32,24 @@ header {
     background: #E76F51;
     margin: 20px auto;
 }
+
+.user-img {
+    height: 149px;
+    width: 149px;
+}
+
+.user-name {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.rating {
+    color: #E77C40;
+    font-size: 24px;
+}
+
+.section-title {
+    font-size: 48px;
+    font-weight: 600;
+    color: #0A0826;
+}
