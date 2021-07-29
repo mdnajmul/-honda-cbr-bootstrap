@@ -1,3 +1,4 @@
+/* google font  */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
 body {
@@ -6,7 +7,11 @@ body {
 }
 
 header {
-    background-color: #264653;
+    background: #264653;
+}
+
+.mb-150 {
+    margin-bottom: 150px;
 }
 
 .button-bg-color {
@@ -15,8 +20,9 @@ header {
 }
 
 .txt-color {
-    color: #b9b6b6;
+    color: #C9D1D4;
     font-weight: 300;
+    font-size: 18px;
 }
 
 .best-bike {
@@ -52,4 +58,31 @@ header {
     font-size: 48px;
     font-weight: 600;
     color: #0A0826;
+}
+
+.accordion-btn {
+    font-size: 20px;
+    font-weight: 500;
+    color: #383838;
+}
+
+.accordion-text {
+    font-size: 16px;
+    color: #7E848C;
+}
+
+footer {
+    background-color: #0B0D17;
+}
+
+.foot-text {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.foot-copyright {
+    color: #D9DBE1;
+    font-size: 14px;
+    font-weight: normal;
 }
